@@ -16,8 +16,9 @@
 
 Esse projeto foi desenvolvido utilizando:
 
-- [![Vue][Vue.js]][Vue-url]  
-- [![Flask][Flask]][Flask-url]
+- [![Nuxt][Nuxt]][Nuxt-url]
+- [![Fastapi][Fastapi]][Fastapi-url]  
+- [![DRF][DRF]][DRF-url]
 
 ## 💻 Projeto
 
@@ -28,8 +29,11 @@ Aplicativo de gestão financeira com OCR de faturas.
 
 ---
 
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[Nuxt]: https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D
+[Nuxt-url]: https://nuxt.com/
 
-[Flask]: https://img.shields.io/badge/Flask-236D74?style=for-the-badge&logo=flask&logoColor=000000
-[Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
+[Fastapi]: https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff
+[Fastapi-url]: [https://nuxt.com/](https://fastapi.tiangolo.com/)
+
+[DRF]: https://img.shields.io/badge/Django%20REST%20Framework-792323?style=for-the-badge&logo=django&logoColor=FFFFFF
+[DRF-url]: https://www.django-rest-framework.org/
